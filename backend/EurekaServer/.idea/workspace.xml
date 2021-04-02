@@ -5,38 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fa03fc9-2cdc-4358-bdc5-fe7c038c1a83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AuthServer/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/payload/InfoUpdateRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/payload/UserForApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/payload/UserResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/security/TestFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/service/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AuthServer/src/main/resources/application-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zuul-server/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AuthServer/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/config/AppProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/config/AppProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/config/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/controller/AuthController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/controller/SequenceGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/payload/ApiResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/payload/ApiResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/payload/AuthResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/payload/LoginRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/payload/SignUpRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/repository/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/security/CustomUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/security/CustomUserDetailsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/security/RestAuthenticationEntryPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/security/RestAuthenticationEntryPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/security/TokenAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/security/TokenAuthenticationFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/security/TokenProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/security/TokenProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/security/UserPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/security/UserPrincipal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/security/oauth2/CustomOAuth2UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/security/oauth2/CustomOAuth2UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/security/oauth2/OAuth2AuthenticationSuccessHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/security/oauth2/OAuth2AuthenticationSuccessHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/security/oauth2/user/OAuth2UserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/authsvr/security/oauth2/user/OAuth2UserInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zuul-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul-server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zuul-server/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul-server/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zuul-server/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul-server/gradlew" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

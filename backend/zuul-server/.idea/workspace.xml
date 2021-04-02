@@ -5,12 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7427bb66-f374-4c57-80a4-faf7124168ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../EurekaServer/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EurekaServer/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../EurekaServer/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EurekaServer/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../EurekaServer/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EurekaServer/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../EurekaServer/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/controller/BlogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/controller/BlogController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/controller/CommonReportController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/controller/CommonReportController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/controller/JobController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/controller/JobController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/controller/YoutubeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/controller/YoutubeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/entity/Blog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/entity/Blog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/entity/Career.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/entity/Career.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/entity/Contents.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/entity/Contents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/entity/Report.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/entity/Report.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/entity/Youtube.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/entity/Youtube.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/payload/ApiResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/payload/ApiResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/payload/BlogRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/payload/BlogRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/payload/BlogResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/payload/BlogResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/payload/BlogResponseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/payload/BlogResponseList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/payload/ReportResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/payload/ReportResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/payload/ReportResponseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/payload/ReportResponseList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/payload/YoutubeRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/payload/YoutubeRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/payload/YoutubeResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/payload/YoutubeResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/payload/YoutubeResponseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/payload/YoutubeResponseList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/repository/BlogRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/repository/BlogRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/repository/CommonReportRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/repository/CommonReportRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/repository/YoutubeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/repository/YoutubeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/service/BlogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/service/BlogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/service/BlogServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/service/BlogServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/service/CommonReportService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/service/CommonReportService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/service/CommonReportServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/service/CommonReportServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/service/JobService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/service/JobService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/service/JobServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/service/JobServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/service/YoutubeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/service/YoutubeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/service/YoutubeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/service/YoutubeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/util/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/util/Adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/util/DateFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/src/main/java/com/ssafy/util/DateFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReportServer/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReportServer/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +113,7 @@
       <workItem from="1616639829679" duration="1217000" />
       <workItem from="1617204349421" duration="10522000" />
       <workItem from="1617334787634" duration="1983000" />
-      <workItem from="1617340224889" duration="971000" />
+      <workItem from="1617340224889" duration="1000000" />
     </task>
     <servers />
   </component>

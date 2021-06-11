@@ -132,7 +132,8 @@
 
 - lazy-loading 라이브러리의 once 속성을 사용하여 컴포넌트가 한 번만 로드되도록 최적화하여, 카테고리별 분석 보고서가 랜더링될 때 공통 보고서가 리 렌더링되지 않습니다.
 
-  ![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b1a0190d-1ca4-4b8b-8fd8-aa8c4e0370db/category_report2.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210609%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210609T033210Z&X-Amz-Expires=86400&X-Amz-Signature=ccaa06354dab3e095fc8a4058b36a47c0ecfde69db09fa53ec70c985952e170a&X-Amz-SignedHeaders=host)
+  ![img](https://www.notion.so/IT-post-IT-ad2b7e1e8aeb47d09aef658af2233e91#ec5ea2f80b4f4a8d9292e649473b3277)
+
 
 ------
 

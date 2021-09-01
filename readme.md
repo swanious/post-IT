@@ -81,7 +81,7 @@
 
 - 로그인 모달 제작(컴포넌트를 children 받아 재사용성을 높임)
 
-![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b052fbf7-9ee0-42f6-bfdd-52d1bc9a0c20/login_modal.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210609%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210609T033209Z&X-Amz-Expires=86400&X-Amz-Signature=c09651656266afd9badcc78402cf6d905ec9520be1815e27149fd99252f9788e&X-Amz-SignedHeaders=host)
+![image](https://user-images.githubusercontent.com/52116767/131613447-053d816e-1619-45e3-9072-00ac885d3384.png)
 
 ------
 
